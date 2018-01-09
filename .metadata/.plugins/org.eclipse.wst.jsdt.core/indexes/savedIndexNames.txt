@@ -1,0 +1,12 @@
+INDEX VERSION 1.3+/home/robin/BEProject/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2195925093.index
+2810271647.index
+303309631.index
+524928057.index
+2892470406.index
+3128835394.index
+4203207762.index
+1588368686.index
+1684006304.index
+1199861323.index
+3958581573.index

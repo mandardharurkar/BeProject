@@ -1,0 +1,28 @@
+package com.ucan.Negotiation.config;
+
+import javax.inject.Named;
+
+import org.glassfish.jersey.server.ResourceConfig;
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.client.RestTemplate;
+
+@Configuration
+@EntityScan(basePackages = { "com.ucan.sharedLib" })
+public class ApplicationConfig {
+
+	@Named
+	static class JerseyConfig extends ResourceConfig {
+		public JerseyConfig() {
+			this.packages("com.ucan.questionMgmt.rest");
+		}
+	}
+
+	@Bean
+	public RestTemplate restTemplate() {
+		RestTemplate restTemplate = new RestTemplate();
+		return restTemplate;
+	}
+
+}

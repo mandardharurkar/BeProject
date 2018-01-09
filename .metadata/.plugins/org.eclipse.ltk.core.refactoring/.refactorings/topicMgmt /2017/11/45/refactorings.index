@@ -1,0 +1,7 @@
+1510205941516	Rename package 'com.ucan.userMgmt.config'
+1510206025623	Rename package 'com.ucan.userMgmt.repository'
+1510206124567	Rename type 'UserRepository'
+1510206167931	Rename type 'UserRest'
+1510206190494	Rename package 'com.ucan.userMgmt.rest'
+1510206236462	Rename package 'com.ucan.userMgmt.service'
+1510206309878	Rename type 'UserService'

@@ -1,0 +1,56 @@
+package com.ucan.Negotiation.rest;
+
+import java.util.List;
+
+import javax.inject.Named;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.ucan.Negotiation.service.SessionMessageService;
+import com.ucan.sharedLib.NegotiationMessage;
+import com.ucan.sharedLib.URLConstants;
+
+@Named
+@Path("/v1.0/")
+public class SessionMessageRest {
+	@Autowired
+	SessionMessageService messageServe;
+
+	@GET
+	@Path(URLConstants.GET_NEGOTIATION_MESSAGE_URL)
+	@Produces(MediaType.APPLICATION_JSON)
+	public NegotiationMessage getMessage(@PathParam("id") long id) {
+		System.out.println("in get one db message service");
+		NegotiationMessage u = messageServe.getOneNegotiationMessage(id);
+
+		return u;
+
+	}
+
+	@POST
+	@Path(URLConstants.POST_NEGOTIATION_MESSAGE_URL)
+	@Produces(MediaType.APPLICATION_JSON)
+	public void createMessage(@RequestBody NegotiationMessage u) {
+		System.out.println("in post db message service");
+		messageServe.createNegotiationMessage(u);
+	}
+	
+	@GET
+	@Path(URLConstants.GET_SESSION_NEGOTIATION_MESSAGES_URL)
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<NegotiationMessage> getSessionMessage(@PathParam("sessionid") long sid) {
+		System.out.println("in get one db message service");
+		List<NegotiationMessage> messageList = messageServe.getSessionMessages(sid);
+
+		return messageList;
+
+	}
+
+}

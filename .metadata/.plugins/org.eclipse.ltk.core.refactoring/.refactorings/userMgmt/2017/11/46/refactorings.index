@@ -1,0 +1,7 @@
+1510457003360	Rename method 'getAllUsers'
+1510457024135	Rename method 'getOneUser'
+1510457037603	Rename method 'createUser'
+1510457055449	Rename method 'updateUser'
+1510457072359	Rename method 'deleteUser'
+1510457136836	Rename type 'TopicUserRest'
+1510457162561	Rename type 'TopicUserService'

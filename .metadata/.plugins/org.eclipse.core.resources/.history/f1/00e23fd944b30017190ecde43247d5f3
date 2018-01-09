@@ -1,0 +1,10 @@
+package com.ucan.userMgmt.rest;
+
+public interface URLConstants 
+{
+ static final String getUserURL = "/";
+ static final String postUserURL = "/users";
+ static final String putUserURL ="/user/{id}";
+ static final String deleteUserURL = "/user/{id}";
+ 
+}

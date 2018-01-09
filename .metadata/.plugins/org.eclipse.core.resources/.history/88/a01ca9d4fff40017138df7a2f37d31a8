@@ -1,0 +1,8 @@
+package com.ucan.sharedLib;
+
+import java.io.Serializable;
+
+public class DiscussionSession implements Serializable
+{
+
+}

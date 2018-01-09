@@ -1,0 +1,7 @@
+1510293456780	Rename package 'com.ucan.topicMgmt.config'
+1510293484117	Rename package 'com.ucan.topicMgmt.repository'
+1510293503987	Rename package 'com.ucan.topicMgmt.rest'
+1510293515593	Rename package 'com.ucan.topicMgmt.service'
+1510293595803	Rename type 'TopicRepository'
+1510293627988	Rename type 'TopicRest'
+1510293689626	Rename type 'TopicService'

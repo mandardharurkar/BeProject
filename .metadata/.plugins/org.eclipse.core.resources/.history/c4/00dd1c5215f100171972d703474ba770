@@ -1,0 +1,35 @@
+package com.ucan.Negotiation.rest;
+
+import java.util.List;
+
+import javax.inject.Named;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.ucan.sharedLib.Topic;
+import com.ucan.sharedLib.URLConstants;
+
+
+
+
+@Named
+@Path("/v1.0/")
+public class SessionRest {
+	
+	@Autowired
+	SessionService sService;
+	
+	@POST
+	@Path(URLConstants.POST_NEGOTIATION_SESSION_URL)
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Topic> createTopic(@RequestBody List<User> expertList) {
+		System.out.println("in post db topic service");
+		topicServe.createTopic(u);
+		return getAllTopics();
+	}
+
+}

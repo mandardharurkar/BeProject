@@ -1,0 +1,5 @@
+package com.ucan.Negotiation.service;
+
+public class SessionMessageService {
+
+}

@@ -1,0 +1,8 @@
+package com.ucan.userMgmt.rest;
+
+public interface URLConstants 
+{
+ static final String getUserURL = "/";
+ static final String postUserURL = "/users";
+ 
+}

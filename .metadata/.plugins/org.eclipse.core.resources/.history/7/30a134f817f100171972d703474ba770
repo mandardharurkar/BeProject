@@ -1,0 +1,26 @@
+package com.ucan.Negotiation.service;
+
+import java.util.Iterator;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.ucan.Negotiation.repository.SessionRepository;
+import com.ucan.sharedLib.User;
+
+@Service
+public class SessionService
+{
+	@Autowired
+	SessionRepository sRepo;
+
+	@Autowired
+	User seeker;
+	
+	public void createSession(List<NegotiationSession> expertList, long seekerId) 
+	{
+		
+	}
+	
+}

@@ -1,0 +1,14 @@
+package com.ucan.Negotiation.rest;
+
+import javax.inject.Named;
+import javax.ws.rs.Path;
+
+
+
+
+@Named
+@Path("/v1.0/")
+public class SessionRest {
+	
+	
+}

@@ -1,0 +1,6 @@
+package com.ucan.sharedLib;
+
+public class NegotiationSession 
+{
+
+}

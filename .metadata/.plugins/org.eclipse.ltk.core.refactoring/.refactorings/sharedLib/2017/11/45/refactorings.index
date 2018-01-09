@@ -1,0 +1,7 @@
+1510056304312	Rename field 'getUserURL'
+1510056333412	Rename field 'GET_USER_URL'
+1510056365305	Rename field 'getOneUserURL'
+1510056434968	Rename field 'postUserURL'
+1510056450629	Rename field 'putUserURL'
+1510056465473	Rename field 'deleteUserURL'
+1510207731566	Encapsulate field 'subsTopics'

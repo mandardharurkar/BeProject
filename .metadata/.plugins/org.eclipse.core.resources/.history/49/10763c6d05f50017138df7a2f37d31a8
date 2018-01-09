@@ -1,0 +1,41 @@
+package com.ucan.Negotiation.service;
+
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.ucan.Negotiation.repository.NegotiationMessageRepository;
+import com.ucan.sharedLib.NegotiationMessage;
+
+public class SessionMessageService 
+{
+	@Autowired(required = true)
+	NegotiationMessageRepository messageRepo;
+
+	
+	public NegotiationMessage getOneNegotiationMessage(long id) {
+		try {
+			NegotiationMessage u = messageRepo.findOne(id);
+			System.out.println("in get one db negotiation message service");
+			return u;
+		} catch (Exception e) {
+			return null;
+		}
+
+	}
+
+	public void createNegotiationMessage(NegotiationMessage u) {
+		System.out.println("in post db negotiation message service");
+		try {
+			messageRepo.save(u);
+		} catch (Exception e) 
+		{
+			System.out.println("error in post db negotiation message service");
+		}
+	}
+
+	public List<NegotiationMessage> getSessionMessages(long sid) {
+		return messageRepo.findBynegoSession(sid);
+	}
+}

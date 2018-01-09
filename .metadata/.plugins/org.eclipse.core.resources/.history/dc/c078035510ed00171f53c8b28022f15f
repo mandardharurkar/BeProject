@@ -1,0 +1,67 @@
+package com.ucan.userMgmt.service;
+
+import java.util.List;
+import java.util.function.Predicate;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.ucan.sharedLib.Topic;
+import com.ucan.sharedLib.User;
+import com.ucan.userMgmt.repository.UserRepository;
+
+@Service
+public class TopicSubscriptionService {
+
+	@Autowired
+	UserRepository userRepo;
+
+	public static Predicate<Topic> isid(long id) {
+		return p -> p.getId() == id;
+	}
+
+	public void UnsubscribeInterestedTopic(long userid, long topicid) {
+		User u = userRepo.findOne(userid);
+
+		List<Topic> topics = u.getTopicsFollowing();
+		topics.removeIf(isid(topicid));
+
+		u.setTopicsFollowing(topics);
+		userRepo.save(u);
+	}
+
+	public List<Topic> getAllInterestedTopics(long userId) {
+		return userRepo.findOne(userId).getIntrestedTopics();
+	}
+	
+	public List<Topic> getAllExpertiseTopics(long userId) {
+		return userRepo.findOne(userId).getExpertiseTopics();
+	}
+
+	public List<User> getAllFollowers(long topicId) {
+		
+		Topic t = new Topic();
+		t.setId(topicId);
+		return userRepo.findBytopicsFollowing(t);
+
+	}
+
+	public void subscribeInterestedTopics(long uId, List<Topic> tList) 
+	{
+		User  u = userRepo.findOne(uId);
+		List<Topic> t = u.getIntrestedTopics();
+		t.addAll(tList);
+		u.setIntrestedTopics(t);
+		userRepo.save(u);		
+	}
+	
+	public void subscribeExpertiseTopics(long uId, List<Topic> tList) 
+	{
+		User  u = userRepo.findOne(uId);
+		List<Topic> t = u.getExpertiseTopics();
+		t.addAll(tList);
+		u.setExpertiseTopics(t);
+		userRepo.save(u);		
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.ucan.userMgmt.rest;
+
+public interface URLConstants {
+
+}

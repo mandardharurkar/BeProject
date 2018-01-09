@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.ucan.sharedLib.Question.downvoteCount&apos; in &apos;com.ucan.sharedLib.Question&apos;&#x0A;- Original project: &apos;sharedLib&apos;&#x0A;- Original element: &apos;com.ucan.sharedLib.Question.downvoteCount&apos;&#x0A;- Getter method name: &apos;getDownvoteCount&apos;&#x0A;- Setter method name: &apos;setDownvoteCount&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;downvoteCount&apos;" flags="589830" getter="getDownvoteCount" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;com.ucan.sharedLib{Question.java[Question^downvoteCount" insertion="17" setter="setDownvoteCount" stamp="1514605959589" version="1.0" visibility="1"/>
+</session>

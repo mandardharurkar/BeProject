@@ -1,0 +1,85 @@
+package com.ucan.userMgmt.rest;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+import javax.inject.Named;
+import javax.ws.rs.DELETE;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.PUT;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.ucan.sharedLib.User;
+
+@Named
+@Path("/")
+public class UserRest 
+{
+	@Autowired
+	UserRepository userRepo;
+	
+	
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<User> getAllUsers()
+	{
+		List<User> userList = new ArrayList<User>();
+		System.out.println("in get user service");
+		Iterator<User> userIterator = userRepo.findAll().iterator();
+		while (userIterator.hasNext()) {
+			userList.add(userIterator.next());
+		}
+		return userList;
+		
+	}
+	
+	@GET
+	@Path("user/{id}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public User getUser(@PathParam("id") long id) 
+	{
+		System.out.println("in get one db user service");
+		return userRepo.findOne(id);
+		
+	}
+	
+	@POST
+	@Path(URLConstants.postUserURL)
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<User> createUser(@RequestBody User u)
+	{
+		System.out.println("in post db user service");
+		userRepo.save(u);
+		return getAllUsers();
+	}
+	
+	@PUT
+	@Path("user/{id}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<User> updateUser(@RequestBody User u, @PathParam("id") long id)
+	{
+		System.out.println("in put user db service");
+		userRepo.save(u);
+		return getAllUsers();
+	}
+	
+	
+	@DELETE
+	@Path("user/{id}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<User> deleteUser(@PathParam("id") long id)
+	{
+		System.out.println("in delete user service");
+		userRepo.delete(id);
+		return getAllUsers();
+	}
+	
+}

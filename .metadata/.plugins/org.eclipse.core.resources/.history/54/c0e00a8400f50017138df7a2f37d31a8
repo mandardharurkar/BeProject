@@ -1,0 +1,18 @@
+package com.ucan.answerMgmt.repository;
+
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import com.ucan.sharedLib.NegotiationSession;
+
+
+
+@Repository
+public interface DiscussionSessionRepository extends CrudRepository<NegotiationSession, Long> 
+{
+	List<DiscussionSession> findByseeker(long uid);
+	List<DiscussionSession> findByexpert(long uid);
+}
