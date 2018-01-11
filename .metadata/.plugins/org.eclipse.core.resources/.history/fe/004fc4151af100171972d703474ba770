@@ -1,5 +1,0 @@
-package com.ucan.Negotiation.repository;
-
-public class NegotiationMessageRepository {
-
-}

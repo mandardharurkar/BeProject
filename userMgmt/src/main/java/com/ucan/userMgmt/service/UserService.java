@@ -68,4 +68,9 @@ public class UserService {
 		}
 	}
 
+	public User getOneUserbyIdService(long uid) {
+		
+		return userRepo.findOne(uid);
+	}
+
 }

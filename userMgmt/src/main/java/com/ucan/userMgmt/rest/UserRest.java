@@ -34,6 +34,18 @@ public class UserRest {
 		return u;
 
 	}
+	
+	@GET
+	@Path(URLConstants.GET_USER_ID_URL)
+	@Produces(MediaType.APPLICATION_JSON)
+	public User getUserbyId(@PathParam("id") long uid) {
+		System.out.println("in get one db user service");
+		User u = userServe.getOneUserbyIdService(uid);
+
+		return u;
+
+	}
+
 
 	@POST
 	@Path(URLConstants.POST_USER_URL)

@@ -1,6 +1,7 @@
 package com.ucan.userMgmt.rest;
 
 import java.util.List;
+import java.util.Set;
 
 import javax.inject.Named;
 import javax.ws.rs.DELETE;
@@ -37,7 +38,7 @@ public class TopicSubscriptionRest {
 	@GET
 	@Path(URLConstants.GET_USER_EXPERTISE_TOPICS_URL)
 	@Produces({ MediaType.APPLICATION_JSON })
-	public List<Topic> getAllExpertiseTopics(@PathParam("userid") long userId) {
+	public Set<Topic> getAllExpertiseTopics(@PathParam("userid") long userId) {
 		 return userServe.getAllExpertiseTopics(userId);
 	}
 

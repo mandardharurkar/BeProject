@@ -17,10 +17,13 @@
 	<modules>
 	<module>../sharedLib</module>
 	<module>../userMgmt</module>	
-	<module>../topicMgmt</module>		
-	<module>../questionMgmt</module>
+	<module>../topicMgmt</module>
 	<module>../answerMgmt</module>
 	<module>../ucan_frontend</module>
+	<module>../Negotiation</module>
+	<module>../reviewMgmt</module>
+			
+	<module>../questionMgmt</module>
 	</modules>
 	
   <dependencies>

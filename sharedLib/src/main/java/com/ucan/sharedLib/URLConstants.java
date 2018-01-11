@@ -4,6 +4,7 @@ public interface URLConstants {
 
 	// Port 8080
 	static final String GET_USER_URL = "/users/{email}";
+	static final String GET_USER_ID_URL = "/users/id/{id}";
 	static final String POST_USER_URL = "/users";
 	static final String PUT_USER_URL = "/users/{id}";
 	static final String DELETE_USER_URL = "/users/{id}";

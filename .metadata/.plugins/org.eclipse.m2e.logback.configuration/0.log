@@ -13773,3 +13773,992 @@ org.xml.sax.SAXParseException: The markup declarations contained or pointed to b
 2018-01-09 11:54:30,567 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-01-09 11:54:30,569 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-01-09 11:54:30,569 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 15:18:05,846 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:05,897 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 15:18:05,899 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 15:18:05,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:05,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 15:18:07,061 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:07,096 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 15:18:07,096 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 15:18:07,106 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:07,106 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 15:18:07,650 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:07,672 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 15:18:07,672 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 15:18:07,676 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:07,676 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 15:18:08,321 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:08,356 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 15:18:08,356 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 15:18:08,374 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:08,374 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 15:18:08,792 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:08,815 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 15:18:08,816 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 15:18:08,822 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:08,822 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 15:18:10,214 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:10,214 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 15:18:10,215 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 15:18:10,223 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 15:18:10,223 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:18:59,197 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:18:59,306 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:18:59,307 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:18:59,341 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:18:59,342 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 19:19:00,178 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:00,209 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:19:00,209 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:19:00,219 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:00,219 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 19:19:00,710 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:00,763 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:19:00,764 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:19:00,767 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:00,767 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 19:19:01,521 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:01,558 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:19:01,558 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:19:01,577 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:01,577 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 19:19:02,065 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:02,095 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:19:02,095 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:19:02,102 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:02,102 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 19:19:02,867 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:02,868 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:19:02,868 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:19:02,870 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:19:02,870 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:20:32,355 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ucan:backendParent:0.0.1-SNAPSHOT @ /home/robin/BEProject/backendParent/pom.xml.
+2018-01-11 19:40:31,955 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:31,957 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:31,969 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:31,973 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:31,973 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:40:32,100 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:32,116 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:32,118 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:32,120 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:32,121 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:40:32,987 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:32,988 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:32,989 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:32,995 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:32,996 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 19:40:34,418 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:34,418 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:34,418 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:34,421 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:34,421 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 19:40:34,954 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:34,955 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:34,956 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:34,958 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:34,958 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:40:35,025 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:35,026 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:35,026 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:35,028 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:35,028 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 19:40:35,618 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:35,620 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:35,620 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:35,627 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:35,627 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 19:40:36,164 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:36,165 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:36,165 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:36,168 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:36,169 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 19:40:36,747 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:36,747 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:36,748 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:36,749 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:36,750 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:40:37,841 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:37,842 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:40:37,842 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:40:37,844 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:40:37,845 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:42:46,636 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:46,654 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:46,655 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:46,657 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:46,657 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:42:47,046 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:47,047 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:47,048 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:47,050 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:47,050 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:42:47,492 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:47,492 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:47,493 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:47,494 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:47,494 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 19:42:47,989 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:47,990 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:47,990 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:47,993 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:47,993 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 19:42:48,382 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:48,383 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:48,383 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:48,385 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:48,386 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 19:42:48,989 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:49,000 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:49,001 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:49,006 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:49,006 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 19:42:49,462 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:49,463 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:49,463 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:49,465 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:49,466 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 19:42:49,703 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:49,704 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:49,704 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:49,706 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:49,706 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 19:42:50,833 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:50,834 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:50,835 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:50,837 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:50,837 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:42:51,857 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:51,858 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:42:51,858 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:42:51,860 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:42:51,860 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:46:03,190 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,191 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:03,192 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:03,194 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,194 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:46:03,349 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,350 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:03,351 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:03,356 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,356 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:46:03,822 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,822 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:03,822 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:03,824 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,824 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 19:46:03,948 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,949 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:03,949 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:03,951 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:03,951 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 19:46:04,017 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:04,017 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:04,018 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:04,019 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:04,020 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:46:05,100 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:05,100 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:05,102 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:05,106 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:05,106 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:46:05,510 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:05,511 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:05,511 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:05,513 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:05,514 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 19:46:05,972 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:05,974 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:05,975 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:05,982 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:05,982 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 19:46:06,479 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:06,480 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:06,483 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:06,485 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:06,486 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 19:46:06,546 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:06,547 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:46:06,547 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:46:06,549 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:46:06,549 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 19:46:59,914 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ucan:backendParent:0.0.1-SNAPSHOT @ /home/robin/BEProject/backendParent/pom.xml.
+2018-01-11 19:58:54,126 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-11 19:58:55,241 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 19:58:55,699 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 19:58:55,725 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ucan:backendParent:0.0.1-SNAPSHOT @ /home/robin/BEProject/backendParent/pom.xml.
+2018-01-11 19:58:55,776 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 19:58:55,864 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 19:58:56,029 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 19:58:56,072 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 19:58:56,178 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 19:58:56,302 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 19:59:00,749 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/main/java
+2018-01-11 19:59:00,750 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 19:59:00,750 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 19:59:00,750 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/test/java
+2018-01-11 19:59:06,117 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/main/java
+2018-01-11 19:59:06,117 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 19:59:06,117 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 19:59:06,117 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/test/java
+2018-01-11 19:59:08,908 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/main/java
+2018-01-11 19:59:08,908 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 19:59:08,908 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 19:59:08,908 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/test/java
+2018-01-11 19:59:11,629 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/main/java
+2018-01-11 19:59:11,629 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 19:59:11,629 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 19:59:11,629 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/test/java
+2018-01-11 19:59:14,940 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/main/java
+2018-01-11 19:59:14,940 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 19:59:14,940 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 19:59:14,940 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/test/java
+2018-01-11 19:59:14,978 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/main/java
+2018-01-11 19:59:14,979 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 19:59:14,979 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 19:59:14,979 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/test/java
+2018-01-11 19:59:17,754 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/main/java
+2018-01-11 19:59:17,754 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 19:59:17,755 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 19:59:17,755 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/test/java
+2018-01-11 19:59:23,162 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/main/java
+2018-01-11 19:59:23,162 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 19:59:23,162 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 19:59:23,163 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/test/java
+2018-01-11 19:59:29,111 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 19:59:29,528 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Negotiation
+2018-01-11 19:59:29,659 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 19:59:30,127 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for answerMgmt
+2018-01-11 19:59:30,220 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 19:59:30,718 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for questionMgmt
+2018-01-11 19:59:30,840 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 19:59:31,227 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for reviewMgmt
+2018-01-11 19:59:31,394 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 19:59:31,603 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 19:59:32,020 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for topicMgmt
+2018-01-11 19:59:32,097 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 19:59:32,329 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ucan_frontend
+2018-01-11 19:59:32,428 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 19:59:32,855 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for userMgmt
+2018-01-11 19:59:32,857 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 38 sec
+2018-01-11 19:59:33,584 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:33,585 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:59:33,585 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:33,587 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:33,587 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 19:59:34,171 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:34,171 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:34,172 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:59:34,222 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:34,222 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 19:59:35,149 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:35,150 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:35,150 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:59:35,152 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:35,152 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 19:59:35,759 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:35,759 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:35,759 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:35,761 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:35,761 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 19:59:36,581 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:36,582 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:36,582 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:59:36,584 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:36,584 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 19:59:37,261 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:37,261 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:37,261 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:59:37,264 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:37,265 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/ucan_frontend/src/test/resources
+2018-01-11 19:59:38,336 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:38,336 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:38,337 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:59:38,339 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:38,339 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 19:59:39,085 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:39,085 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 19:59:39,085 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 19:59:39,092 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 19:59:39,092 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:51:17,431 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:51:17,431 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:51:17,432 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:51:17,433 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:51:17,434 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:55:29,139 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 20:55:29,792 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:29,793 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:55:29,793 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:55:29,795 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:29,795 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:55:29,795 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of questionMgmt
+2018-01-11 20:55:29,796 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for questionMgmt
+2018-01-11 20:55:29,801 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:31,543 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:31,544 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:55:31,544 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:55:31,546 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:31,546 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:55:36,491 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:36,492 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:55:36,492 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:55:36,494 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:36,494 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:55:45,217 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:45,217 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:55:45,218 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:55:45,220 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:45,220 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:55:58,556 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:58,556 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:55:58,556 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:55:58,562 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:55:58,562 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:57:32,667 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:57:32,668 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:57:32,668 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:57:32,669 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:57:32,670 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 20:58:31,280 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:58:31,281 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:58:31,281 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:58:31,283 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:58:31,283 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 20:58:39,304 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:58:39,304 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:58:39,305 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:58:39,307 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:58:39,307 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 20:59:23,135 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:23,135 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:59:23,136 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:59:23,137 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:23,137 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 20:59:28,661 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:28,662 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:59:28,662 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:59:28,663 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:28,664 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 20:59:34,293 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:34,294 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:59:34,294 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:59:34,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:34,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 20:59:43,549 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:43,549 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:59:43,549 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:59:43,551 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:43,551 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 20:59:47,642 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:47,642 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:59:47,643 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:59:47,644 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:47,645 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 20:59:56,846 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:56,847 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 20:59:56,847 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 20:59:56,848 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 20:59:56,848 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 21:00:53,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:00:53,297 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:00:53,297 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:00:53,299 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:00:53,299 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 21:02:13,016 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:02:13,017 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:02:13,017 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:02:13,018 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:02:13,018 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:12:40,807 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:12:40,808 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:12:40,808 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:12:40,810 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:12:40,810 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:13:20,449 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:13:20,450 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:13:20,450 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:13:20,452 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:13:20,452 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:19:44,859 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:19:44,860 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:19:44,860 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:19:44,861 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:19:44,861 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:20:32,159 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:20:32,159 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:20:32,159 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:20:32,161 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:20:32,161 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:21:07,497 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:21:07,497 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:21:07,497 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:21:07,499 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:21:07,499 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:21:18,198 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:21:18,198 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:21:18,199 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:21:18,200 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:21:18,200 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:21:40,660 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:21:40,661 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:21:40,661 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:21:40,663 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:21:40,663 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:32:59,254 [Worker-63] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-11 21:33:00,131 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 21:33:00,854 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 21:33:02,063 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ucan:backendParent:0.0.1-SNAPSHOT @ /home/robin/BEProject/backendParent/pom.xml.
+2018-01-11 21:33:02,121 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 21:33:02,212 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 21:33:02,302 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 21:33:02,378 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 21:33:02,531 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 21:33:02,610 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 21:33:06,186 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/main/java
+2018-01-11 21:33:06,186 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 21:33:06,186 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 21:33:06,186 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/test/java
+2018-01-11 21:33:09,581 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/main/java
+2018-01-11 21:33:09,581 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 21:33:09,581 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 21:33:09,581 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/test/java
+2018-01-11 21:33:11,665 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/main/java
+2018-01-11 21:33:11,665 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 21:33:11,665 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 21:33:11,665 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/test/java
+2018-01-11 21:33:14,297 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/main/java
+2018-01-11 21:33:14,297 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 21:33:14,298 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 21:33:14,298 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/test/java
+2018-01-11 21:33:16,836 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/main/java
+2018-01-11 21:33:16,836 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 21:33:16,837 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 21:33:16,837 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/test/java
+2018-01-11 21:33:19,057 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/main/java
+2018-01-11 21:33:19,057 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 21:33:19,057 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 21:33:19,058 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/test/java
+2018-01-11 21:33:23,462 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/main/java
+2018-01-11 21:33:23,462 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 21:33:23,462 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 21:33:23,462 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/test/java
+2018-01-11 21:33:30,653 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/main/java
+2018-01-11 21:33:30,653 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 21:33:30,653 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 21:33:30,653 [Worker-63] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/test/java
+2018-01-11 21:33:43,537 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 21:33:44,722 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 21:33:45,287 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 21:33:45,857 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 21:33:46,342 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 21:33:46,633 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 21:33:47,227 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 21:33:47,736 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 21:33:48,167 [Worker-63] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 48 sec
+2018-01-11 21:33:48,768 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:48,768 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:33:48,773 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:48,775 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:48,775 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:33:49,746 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:49,747 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:49,747 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:33:49,749 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:49,749 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 21:33:51,024 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:51,025 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:51,025 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:33:51,033 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:51,033 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:33:52,480 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:52,480 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:52,480 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:33:52,482 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:52,483 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 21:33:53,351 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:53,351 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:53,351 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:53,353 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:53,353 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 21:33:54,440 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:54,441 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:54,441 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:33:54,442 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:54,442 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 21:33:54,591 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:54,592 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:54,592 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:54,600 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:54,601 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 21:33:55,225 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:55,225 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:55,226 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:33:55,229 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:55,229 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/ucan_frontend/src/test/resources
+2018-01-11 21:33:56,009 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:56,010 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:33:56,010 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:33:56,011 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:33:56,011 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 21:35:11,196 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:35:11,196 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:35:11,196 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:35:11,197 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:35:11,198 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:56:29,833 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:56:29,851 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:56:29,863 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:56:29,864 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:56:29,865 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:56:32,250 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:56:32,251 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:56:32,251 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:56:32,252 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:56:32,252 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 21:56:52,073 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:56:52,074 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:56:52,074 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:56:52,076 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:56:52,076 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:57:00,038 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:57:00,039 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:57:00,040 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:57:00,041 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:57:00,042 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:57:45,262 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:57:45,262 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:57:45,263 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:57:45,264 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:57:45,265 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:57:52,922 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:57:52,923 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:57:52,923 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:57:52,925 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:57:52,925 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:58:01,937 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:01,937 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:58:01,938 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:58:01,940 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:01,940 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:58:02,946 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:02,946 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:58:02,947 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:58:02,950 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:02,950 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 21:58:03,130 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:03,130 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:58:03,130 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:58:03,132 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:03,132 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 21:58:08,793 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:08,794 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:58:08,796 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:58:08,798 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:08,798 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 21:58:08,898 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:08,898 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 21:58:08,898 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 21:58:08,900 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 21:58:08,900 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:02:54,839 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:54,839 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:54,840 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:02:54,841 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:54,841 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:02:55,889 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:55,889 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:02:55,889 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:55,890 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:55,890 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:02:55,907 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:55,907 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:55,907 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:02:55,908 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:55,908 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:02:57,286 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,286 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,286 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,287 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,287 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 22:02:57,306 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,306 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,306 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,308 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,308 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:02:57,539 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,539 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,539 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,540 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,540 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 22:02:57,722 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,722 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,722 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:57,723 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:57,723 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 22:02:58,187 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:58,188 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:58,188 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:02:58,189 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:02:58,189 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 22:03:20,854 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:20,855 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:03:20,855 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:03:20,856 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:20,856 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:03:32,185 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:32,185 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:03:32,185 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:03:32,186 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:32,187 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:03:41,378 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:41,378 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:03:41,379 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:03:41,380 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:41,380 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:03:57,750 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:57,751 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:03:57,751 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:03:57,755 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:03:57,755 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:04:08,053 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:04:08,053 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:04:08,053 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:04:08,054 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:04:08,054 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:05:59,627 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:05:59,627 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:05:59,628 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:05:59,629 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:05:59,629 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:06:00,817 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:00,817 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:00,818 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:00,819 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:00,819 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:06:00,830 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:00,830 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:00,830 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:00,831 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:00,832 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:06:02,236 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:02,237 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:02,237 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:02,239 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:02,239 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 22:06:02,503 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:02,504 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:02,504 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:02,505 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:02,505 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 22:06:02,831 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:02,831 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:02,831 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:02,832 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:02,832 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 22:06:03,068 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:03,068 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:03,068 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:03,069 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:03,070 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 22:06:03,282 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:03,282 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:03,282 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:03,283 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:03,283 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:06:46,530 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:46,530 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:46,530 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:46,531 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:46,531 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:06:56,356 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:56,357 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:06:56,357 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:06:56,358 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:06:56,358 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:07:46,993 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:07:46,993 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:07:46,993 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:07:46,994 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:07:46,994 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:08:23,800 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:08:23,800 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:08:23,800 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:08:23,801 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:08:23,801 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:08:33,548 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:08:33,548 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:08:33,548 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:08:33,550 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:08:33,550 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:08:40,865 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:08:40,865 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:08:40,866 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:08:40,867 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:08:40,867 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:09:53,667 [Worker-90] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-11 22:09:54,224 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 22:09:54,510 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 22:09:54,523 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ucan:backendParent:0.0.1-SNAPSHOT @ /home/robin/BEProject/backendParent/pom.xml.
+2018-01-11 22:09:54,549 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 22:09:54,589 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 22:09:54,666 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 22:09:54,725 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 22:09:56,274 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 22:09:56,876 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 22:10:02,563 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/main/java
+2018-01-11 22:10:02,563 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 22:10:02,563 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 22:10:02,564 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/test/java
+2018-01-11 22:10:06,927 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/main/java
+2018-01-11 22:10:06,927 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 22:10:06,927 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 22:10:06,928 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/test/java
+2018-01-11 22:10:10,202 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/main/java
+2018-01-11 22:10:10,202 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 22:10:10,202 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 22:10:10,202 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/test/java
+2018-01-11 22:10:13,063 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/main/java
+2018-01-11 22:10:13,063 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 22:10:13,063 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 22:10:13,063 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/test/java
+2018-01-11 22:10:19,875 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/main/java
+2018-01-11 22:10:19,875 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 22:10:19,875 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 22:10:19,875 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/test/java
+2018-01-11 22:10:19,894 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/main/java
+2018-01-11 22:10:19,895 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 22:10:19,895 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 22:10:19,895 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/test/java
+2018-01-11 22:10:23,841 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/main/java
+2018-01-11 22:10:23,841 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 22:10:23,841 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 22:10:23,841 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/test/java
+2018-01-11 22:10:27,248 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/main/java
+2018-01-11 22:10:27,248 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 22:10:27,249 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 22:10:27,249 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/test/java
+2018-01-11 22:10:30,473 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 22:10:31,037 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 22:10:31,612 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 22:10:32,321 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 22:10:33,245 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 22:10:33,588 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 22:10:34,503 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 22:10:35,280 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 22:10:36,008 [Worker-90] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 42 sec
+2018-01-11 22:10:36,532 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:36,532 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:10:36,533 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:36,534 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:36,534 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:10:37,497 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:37,498 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:37,498 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:10:37,502 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:37,502 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 22:10:38,511 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:38,511 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:38,511 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:10:38,514 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:38,515 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:10:39,617 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:39,617 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:39,617 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:10:39,619 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:39,619 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 22:10:40,338 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:40,338 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:40,338 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:40,339 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:40,339 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 22:10:41,354 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:41,355 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:41,355 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:10:41,356 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:41,357 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 22:10:42,142 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:42,143 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:42,143 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:10:42,144 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:42,145 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/ucan_frontend/src/test/resources
+2018-01-11 22:10:43,038 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:43,038 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:10:43,038 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:10:43,040 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:10:43,040 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:16:55,595 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:55,596 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:55,596 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:55,597 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:55,597 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:16:55,721 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:55,722 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:55,722 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:55,723 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:55,723 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:16:56,158 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,158 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:56,158 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:56,159 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,159 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:16:56,319 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,320 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:56,320 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:56,322 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,322 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:16:56,491 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,492 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:56,492 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:56,493 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,493 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 22:16:56,522 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,522 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:56,522 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:56,523 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,523 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:16:56,617 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,617 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:56,617 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:56,619 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:56,619 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:16:57,894 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:57,894 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:57,894 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:57,895 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:57,895 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 22:16:58,346 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:58,346 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:58,346 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:58,347 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:58,347 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 22:16:58,645 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:58,646 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:16:58,646 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:16:58,647 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:16:58,647 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 22:17:25,534 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:25,534 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:17:25,535 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:17:25,536 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:25,536 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:17:26,905 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:26,905 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:17:26,906 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:17:26,907 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:26,907 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:17:27,305 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:27,306 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:17:27,306 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:17:27,307 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:27,307 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources
+2018-01-11 22:17:51,019 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:51,020 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:17:51,021 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:17:51,022 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:17:51,022 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:18:07,312 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:18:07,312 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:18:07,313 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:18:07,314 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:18:07,314 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:18:35,393 [Worker-92] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-11 22:18:35,768 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 22:18:35,956 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 22:18:35,970 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ucan:backendParent:0.0.1-SNAPSHOT @ /home/robin/BEProject/backendParent/pom.xml.
+2018-01-11 22:18:35,994 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 22:18:36,029 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 22:18:36,083 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 22:18:36,115 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 22:18:36,345 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 22:18:36,451 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 22:18:39,365 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/main/java
+2018-01-11 22:18:39,365 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 22:18:39,365 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Negotiation/src/main/resources
+2018-01-11 22:18:39,366 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negotiation/src/test/java
+2018-01-11 22:18:52,147 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/main/java
+2018-01-11 22:18:52,147 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 22:18:52,147 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /answerMgmt/src/main/resources
+2018-01-11 22:18:52,147 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /answerMgmt/src/test/java
+2018-01-11 22:18:55,329 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/main/java
+2018-01-11 22:18:55,329 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 22:18:55,329 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /questionMgmt/src/main/resources
+2018-01-11 22:18:55,329 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /questionMgmt/src/test/java
+2018-01-11 22:18:57,762 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/main/java
+2018-01-11 22:18:57,762 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 22:18:57,762 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /reviewMgmt/src/main/resources
+2018-01-11 22:18:57,762 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /reviewMgmt/src/test/java
+2018-01-11 22:19:01,066 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/main/java
+2018-01-11 22:19:01,066 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 22:19:01,066 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sharedLib/src/main/resources
+2018-01-11 22:19:01,066 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sharedLib/src/test/java
+2018-01-11 22:19:01,098 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/main/java
+2018-01-11 22:19:01,098 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 22:19:01,098 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /topicMgmt/src/main/resources
+2018-01-11 22:19:01,098 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /topicMgmt/src/test/java
+2018-01-11 22:19:03,584 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/main/java
+2018-01-11 22:19:03,585 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 22:19:03,585 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ucan_frontend/src/main/resources
+2018-01-11 22:19:03,585 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ucan_frontend/src/test/java
+2018-01-11 22:19:05,607 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/main/java
+2018-01-11 22:19:05,607 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 22:19:05,608 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMgmt/src/main/resources
+2018-01-11 22:19:05,608 [Worker-92] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMgmt/src/test/java
+2018-01-11 22:19:08,058 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:Negotiation:0.0.1-SNAPSHOT @ /home/robin/BEProject/Negotiation/pom.xml.
+2018-01-11 22:19:08,289 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Negotiation
+2018-01-11 22:19:08,366 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:answerMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/answerMgmt/pom.xml.
+2018-01-11 22:19:08,726 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for answerMgmt
+2018-01-11 22:19:08,797 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:questionMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/questionMgmt/pom.xml.
+2018-01-11 22:19:09,035 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for questionMgmt
+2018-01-11 22:19:09,096 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:reviewMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/reviewMgmt/pom.xml.
+2018-01-11 22:19:09,323 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for reviewMgmt
+2018-01-11 22:19:09,378 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:sharedLib:0.0.1-SNAPSHOT @ /home/robin/BEProject/sharedLib/pom.xml.
+2018-01-11 22:19:09,458 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:topicMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/topicMgmt/pom.xml.
+2018-01-11 22:19:09,735 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for topicMgmt
+2018-01-11 22:19:09,806 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:ucan_frontend:0.0.1-SNAPSHOT @ /home/robin/BEProject/ucan_frontend/pom.xml.
+2018-01-11 22:19:09,942 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ucan_frontend
+2018-01-11 22:19:09,998 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ucan:userMgmt:0.0.1-SNAPSHOT @ /home/robin/BEProject/userMgmt/pom.xml.
+2018-01-11 22:19:10,247 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for userMgmt
+2018-01-11 22:19:10,248 [Worker-92] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 34 sec
+2018-01-11 22:19:10,518 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:10,519 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:19:10,519 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:10,520 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:10,520 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/sharedLib/src/test/resources
+2018-01-11 22:19:10,788 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:10,789 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:10,789 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:19:10,791 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:10,791 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/reviewMgmt/src/test/resources
+2018-01-11 22:19:11,369 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:11,370 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:11,370 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:19:11,371 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:11,372 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/questionMgmt/src/test/resources
+2018-01-11 22:19:12,211 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:12,211 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:12,211 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:19:12,213 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:12,213 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/answerMgmt/src/test/resources
+2018-01-11 22:19:13,532 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:13,532 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:13,532 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:13,533 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:13,533 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/Negotiation/src/test/resources
+2018-01-11 22:19:13,847 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:13,847 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:13,847 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:19:13,848 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:13,848 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/topicMgmt/src/test/resources
+2018-01-11 22:19:14,404 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:14,404 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:14,404 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:19:14,406 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:14,406 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/ucan_frontend/src/test/resources
+2018-01-11 22:19:14,675 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:14,675 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-11 22:19:14,675 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-11 22:19:14,676 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 22:19:14,676 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/robin/BEProject/userMgmt/src/test/resources

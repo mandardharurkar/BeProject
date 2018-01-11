@@ -2,6 +2,7 @@ package com.ucan.sharedLib;
 
 import java.io.Serializable;
 import java.util.List;
+import java.util.Set;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -10,6 +11,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 import javax.persistence.Table;
+
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
+
+
 
 @Entity
 @Table(name = "FinalUcanUsers")
@@ -33,15 +39,15 @@ public class User implements Serializable {
 	@ManyToMany(fetch = FetchType.EAGER)
 	private List<Topic> interestedTopics;
 	
-
 	@ManyToMany(fetch = FetchType.EAGER)
-	private List<Topic> expertiseTopics;
+	@Fetch(value = FetchMode.SELECT)
+	private Set<Topic> expertiseTopics;
 
-	public List<Topic> getExpertiseTopics() {
+	public Set<Topic> getExpertiseTopics() {
 		return expertiseTopics;
 	}
 
-	public void setExpertiseTopics(List<Topic> expertiseTopics) {
+	public void setExpertiseTopics(Set<Topic> expertiseTopics) {
 		this.expertiseTopics = expertiseTopics;
 	}
 

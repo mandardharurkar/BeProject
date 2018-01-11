@@ -3,7 +3,9 @@ package com.ucan.userMgmt.service;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 import java.util.function.Predicate;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -35,7 +37,7 @@ public class TopicSubscriptionService {
 	public void UnsubscribeExpertiseTopic(long userid, long topicid) {
 		User u = userRepo.findOne(userid);
 
-		List<Topic> topics = u.getExpertiseTopics();
+		Set<Topic> topics = u.getExpertiseTopics();
 		topics.removeIf(isid(topicid));
 
 		u.setExpertiseTopics(topics);
@@ -46,7 +48,7 @@ public class TopicSubscriptionService {
 		return userRepo.findOne(userId).getIntrestedTopics();
 	}
 	
-	public List<Topic> getAllExpertiseTopics(long userId) {
+	public Set<Topic> getAllExpertiseTopics(long userId) {
 		return userRepo.findOne(userId).getExpertiseTopics();
 	}
 
@@ -82,7 +84,7 @@ public class TopicSubscriptionService {
 	public void subscribeExpertiseTopics(long uId, List<Topic> tList) 
 	{
 		User  u = userRepo.findOne(uId);
-		List<Topic> t = u.getExpertiseTopics();
+		Set<Topic> t = u.getExpertiseTopics();
 		t.addAll(tList);
 		u.setExpertiseTopics(t);
 		userRepo.save(u);		

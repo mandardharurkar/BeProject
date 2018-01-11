@@ -1,0 +1,10 @@
+com/ucan/Negotiation/repository/SessionRepository.class
+com/ucan/Negotiation/config/ApplicationConfig.class
+com/ucan/Negotiation/service/SessionMessageService.class
+com/ucan/Negotiation/rest/SessionMessageRest.class
+com/ucan/Negotiation/config/Application.class
+com/ucan/Negotiation/service/SessionService.class
+com/ucan/Negotiation/repository/NegotiationMessageRepository.class
+com/ucan/Negotiation/config/ApplicationConfig$JerseyConfig.class
+com/ucan/Negotiation/rest/SessionRest.class
+com/ucan/Negotiation/config/CORSFilter.class

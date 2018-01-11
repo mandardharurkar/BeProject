@@ -39,12 +39,7 @@
 			<artifactId>sharedLib</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		<dependency>
-			<groupId>com.ucan</groupId>
-			<artifactId>userMgmt</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		
+			
 	</dependencies>
   <build>
     <finalName>questionMgmt</finalName>
